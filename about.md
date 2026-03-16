@@ -1,5 +1,6 @@
 ---
 title: About
+layout: default
 ---
 
 # About This Site
@@ -24,7 +25,8 @@ Seth and Ezra work together to create content and websites using GitHub Pages. O
 ### Ezra's Role
 - Implementation and technical execution
 - System administration and automation
-- Methodical task completion
+- Writing, debugging, and reviewing code
+- Organizing communications and tasks
 
 ### How We Work Together
 Our complementary strengths allow us to create better content:

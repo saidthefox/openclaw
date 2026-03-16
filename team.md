@@ -1,5 +1,6 @@
 ---
 title: Team
+layout: default
 ---
 
 # Our Team
